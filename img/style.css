@@ -1,0 +1,28 @@
+.backimg
+{
+	background: linear-gradient(180deg,rgba(63,38,4,0.3) 24%,#774811 100%), url('about.png') !important;
+	/*background: url('about.jpg');*/
+	background-repeat: no-repeat;
+	position: relative;
+	width: 100%;
+	height: 400px;
+	
+	/*background: linear-gradient();*/
+}
+.footer
+{
+	
+	position: absolute;
+	z-index: 9;
+background: url('footer.webp')  no-repeat;
+	background-size: 100% 100%;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 42px;
+top: 90%;
+
+}
+
+/*background-image: linear-gradient(180deg,rgba(63,38,4,0.3) 24%,#774811 100%),
+url(https://zentest.top/nutracart/wp-content/uploads/2022/05/inner-page-1.jpg)!important;*/
